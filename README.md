@@ -1,4 +1,4 @@
-# horsieon-code-refactor
+# horiseon-code-refactor
 
 *A digital marketing web page for the company Horiseon that involves Search Engine Optimization, Social Media Marketing and Online Reputation Management. Contains header links to specific sections of the web page.
 

@@ -4,6 +4,6 @@
 
 *Usage: used as a URL in any standard web browser
 
-![alt text] (images/screenshot.png)
+![alt text](images/screenshot.png)
 
 https://burtk33.github.io/horiseon-code-refactor/
